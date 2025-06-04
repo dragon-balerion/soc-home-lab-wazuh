@@ -8,7 +8,7 @@ This is a personal cybersecurity project where I built a Security Operations Cen
 - Windows 10/11 VM with Wazuh Agent (v4.5)
 - kali Linux VM
 - VMware Workstation
-- Network: Host-only or Bridged for connectivity
+- Network: Bridged for connectivity
 
 ## 📘 Documentation
 
